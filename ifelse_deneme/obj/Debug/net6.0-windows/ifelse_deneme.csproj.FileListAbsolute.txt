@@ -1,0 +1,17 @@
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\bin\Debug\net6.0-windows\ifelse_deneme.exe
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\bin\Debug\net6.0-windows\ifelse_deneme.deps.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\bin\Debug\net6.0-windows\ifelse_deneme.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\bin\Debug\net6.0-windows\ifelse_deneme.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\bin\Debug\net6.0-windows\ifelse_deneme.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.csproj.AssemblyReference.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.Form1.resources
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.csproj.GenerateResource.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\refint\ifelse_deneme.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ifelse_deneme.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\ifelse_deneme\ifelse_deneme\obj\Debug\net6.0-windows\ref\ifelse_deneme.dll
